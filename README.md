@@ -4,14 +4,14 @@ Built using **SpeechRecognition**, **pyttsx3**, and **webbrowser** modules.
 
 ---
 
-## ✨ Features
+## Features
 - 🎤 Wake word detection (**"Hey Bro"**)
 - 🌐 Opens popular websites (Google, YouTube, Facebook, LinkedIn)
 - 🎶 Plays songs from a custom music library
 - 🔊 Responds back with voice using `pyttsx3`
 
 ---
-🛠️ Example Commands
+## Example Commands
 
 "Hey Bro" → activates assistant
 
